@@ -1,4 +1,4 @@
-# docker-for-php
+# Docker for PHP
 
 - nginx:latest
 - php:7.2-fpm-stretch
