@@ -1,2 +1,5 @@
 # docker-for-php
-nginx-php-mysql
+
+- nginx:latest
+- php:7.2-fpm-stretch
+- mysql:5.6
